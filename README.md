@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @n-harvey
+- 👋 Hi, I’m Nathan
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning javascript and ReactJS
 - 💞️ I’m looking to collaborate on anything
