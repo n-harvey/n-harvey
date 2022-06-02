@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n-harvey
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning javascript and ReactJS, 
+- 🌱 I’m currently learning javascript and ReactJS
 - 💞️ I’m looking to collaborate on anything
 - 📫 You can reach me on <a href=https://www.linkedin.com/in/nharvey1990/>Linkedin</a>
 
